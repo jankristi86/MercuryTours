@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21769" started-at="2019-12-17T18:51:50 CET" finished-at="2019-12-17T18:52:12 CET">
+    <groups>
+    </groups>
+    <test name="Register Test" duration-ms="12201" started-at="2019-12-17T18:51:50 CET" finished-at="2019-12-17T18:52:02 CET">
+      <class name="com.demoaut.MercuryTours.RegisterPageTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.demoaut.MercuryTours.RegisterPageTest@4b8d604b]" name="initialize" is-config="true" duration-ms="1814" started-at="2019-12-17T18:51:50 CET" finished-at="2019-12-17T18:51:52 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="registerExcelDriven()[pri:0, instance:com.demoaut.MercuryTours.RegisterPageTest@4b8d604b]" name="registerExcelDriven" duration-ms="3504" started-at="2019-12-17T18:51:52 CET" finished-at="2019-12-17T18:51:55 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerExcelDriven -->
+        <test-method status="PASS" signature="checkRegistration()[pri:0, instance:com.demoaut.MercuryTours.RegisterPageTest@4b8d604b]" name="checkRegistration" is-config="true" duration-ms="41" started-at="2019-12-17T18:51:55 CET" finished-at="2019-12-17T18:51:55 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRegistration -->
+        <test-method status="PASS" signature="signOff()[pri:0, instance:com.demoaut.MercuryTours.RegisterPageTest@4b8d604b]" name="signOff" is-config="true" duration-ms="1130" started-at="2019-12-17T18:51:55 CET" finished-at="2019-12-17T18:51:57 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOff -->
+        <test-method status="PASS" signature="registerOne()[pri:0, instance:com.demoaut.MercuryTours.RegisterPageTest@4b8d604b]" name="registerOne" duration-ms="3381" started-at="2019-12-17T18:51:57 CET" finished-at="2019-12-17T18:52:00 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerOne -->
+        <test-method status="PASS" signature="checkRegistration()[pri:0, instance:com.demoaut.MercuryTours.RegisterPageTest@4b8d604b]" name="checkRegistration" is-config="true" duration-ms="38" started-at="2019-12-17T18:52:00 CET" finished-at="2019-12-17T18:52:00 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRegistration -->
+        <test-method status="PASS" signature="signOff()[pri:0, instance:com.demoaut.MercuryTours.RegisterPageTest@4b8d604b]" name="signOff" is-config="true" duration-ms="2180" started-at="2019-12-17T18:52:00 CET" finished-at="2019-12-17T18:52:02 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOff -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.demoaut.MercuryTours.RegisterPageTest@4b8d604b]" name="closeDriver" is-config="true" duration-ms="51" started-at="2019-12-17T18:52:02 CET" finished-at="2019-12-17T18:52:02 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.demoaut.MercuryTours.RegisterPageTest -->
+    </test> <!-- Register Test -->
+    <test name="Login Test" duration-ms="9509" started-at="2019-12-17T18:52:02 CET" finished-at="2019-12-17T18:52:12 CET">
+      <class name="com.demoaut.MercuryTours.LoginPageTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.demoaut.MercuryTours.LoginPageTest@18ece7f4]" name="initialize" is-config="true" duration-ms="1566" started-at="2019-12-17T18:52:02 CET" finished-at="2019-12-17T18:52:04 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="loginExcelDriven()[pri:0, instance:com.demoaut.MercuryTours.LoginPageTest@18ece7f4]" name="loginExcelDriven" duration-ms="3120" started-at="2019-12-17T18:52:04 CET" finished-at="2019-12-17T18:52:07 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginExcelDriven -->
+        <test-method status="PASS" signature="checkLogin()[pri:0, instance:com.demoaut.MercuryTours.LoginPageTest@18ece7f4]" name="checkLogin" is-config="true" duration-ms="43" started-at="2019-12-17T18:52:07 CET" finished-at="2019-12-17T18:52:07 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogin -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:com.demoaut.MercuryTours.LoginPageTest@18ece7f4]" name="logOut" is-config="true" duration-ms="940" started-at="2019-12-17T18:52:07 CET" finished-at="2019-12-17T18:52:08 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="loginOne()[pri:0, instance:com.demoaut.MercuryTours.LoginPageTest@18ece7f4]" name="loginOne" duration-ms="2814" started-at="2019-12-17T18:52:08 CET" finished-at="2019-12-17T18:52:11 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOne -->
+        <test-method status="PASS" signature="checkLogin()[pri:0, instance:com.demoaut.MercuryTours.LoginPageTest@18ece7f4]" name="checkLogin" is-config="true" duration-ms="40" started-at="2019-12-17T18:52:11 CET" finished-at="2019-12-17T18:52:11 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogin -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:com.demoaut.MercuryTours.LoginPageTest@18ece7f4]" name="logOut" is-config="true" duration-ms="934" started-at="2019-12-17T18:52:11 CET" finished-at="2019-12-17T18:52:12 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.demoaut.MercuryTours.LoginPageTest@18ece7f4]" name="closeDriver" is-config="true" duration-ms="46" started-at="2019-12-17T18:52:12 CET" finished-at="2019-12-17T18:52:12 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.demoaut.MercuryTours.LoginPageTest -->
+    </test> <!-- Login Test -->
+  </suite> <!-- Suite -->
+</testng-results>
